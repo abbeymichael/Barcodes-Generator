@@ -47,3 +47,8 @@ for i in range(start_value, start_value + num_barcodes):
     code.save(f"{i:07d}", options=options)
 
 This will generate 3000 barcode images in the current working directory, starting from 1234567. Each barcode image will have a width of 60 and a height of 30.
+
+
+
+
+https://github.com/abbeymichael/Barcodes-Generator/blob/main/outcome.jpg
